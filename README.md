@@ -28,6 +28,9 @@ Eu usei as seguintes tecnologias para desenvolver este projeto: **HTML, CSS e Ja
 - Fontes: **[Inter](https://fonts.google.com/specimen/Inter?query=inter)**
 - Versionamento: **[Git](https://git-scm.com)**
 
+## Próximos commits
+- Deixar a página responsiva
+- Otimizar para abrir mais rapidamente
 
 ## Layout
 
